@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
 
-namespace StackOverflow.DomainModels
+namespace StackOverflowProject.DomainModels
 {
     public class StackOverflowDatabaseDBContext:DbContext
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StackOverflow.DomainModels
+namespace StackOverflowProject.DomainModels
 {
     public class User
     {
@@ -17,7 +17,7 @@ namespace StackOverflow.DomainModels
         public string PasswordHash { get; set; }
         public string UserName { get; set; }
         public string MobileNo { get; set; }
-        public string IsAdmin { get; set; }
+        public bool IsAdmin { get; set; }
          
     }
 }
