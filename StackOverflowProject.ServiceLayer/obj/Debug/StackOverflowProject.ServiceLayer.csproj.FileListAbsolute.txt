@@ -1,0 +1,12 @@
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.ServiceLayer.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.ServiceLayer.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflow.DomainModels.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflow.DomainModels.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflow.DomainModels.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\obj\Debug\StackOverflowProject.ServiceLayer.csproj.AssemblyReference.cache
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\obj\Debug\StackOverflowProject.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\obj\Debug\StackOverflowProject.ServiceLayer.csproj.CopyComplete
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\obj\Debug\StackOverflowProject.ServiceLayer.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\obj\Debug\StackOverflowProject.ServiceLayer.pdb
