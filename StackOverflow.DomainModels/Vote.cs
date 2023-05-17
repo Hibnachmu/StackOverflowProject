@@ -12,7 +12,7 @@ namespace StackOverflowProject.DomainModels
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int VoteIID { get; set; }
+        public int VoteID { get; set; }
         public int UserID { get; set; }
         public int AnswerID { get; set; }
         public int VoteValue { get; set; }
