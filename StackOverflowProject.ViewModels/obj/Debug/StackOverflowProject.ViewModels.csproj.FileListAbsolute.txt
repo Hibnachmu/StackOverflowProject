@@ -4,3 +4,9 @@ D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOve
 D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CoreCompileInputs.cache
 D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.dll
 D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CopyComplete
