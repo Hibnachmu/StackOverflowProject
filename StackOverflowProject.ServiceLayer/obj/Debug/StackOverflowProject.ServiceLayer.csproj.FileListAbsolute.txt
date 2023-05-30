@@ -13,3 +13,14 @@ D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\obj\Debug\StackO
 D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.Repositories.dll
 D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.Repositories.pdb
 D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.Repositories.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.ServiceLayer.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\AutoMapper.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.ViewModels.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\System.ValueTuple.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.ViewModels.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\StackOverflowProject.ViewModels.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\AutoMapper.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\AutoMapper.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject.ServiceLayer\bin\Debug\System.ValueTuple.xml
