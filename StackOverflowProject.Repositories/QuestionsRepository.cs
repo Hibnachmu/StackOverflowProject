@@ -13,12 +13,12 @@ namespace StackOverflowProject.Repositories
         void UpdateQuestionDetails(Question q);
         void UpdateQuestionVotesCount(int qid, int value);
         void UpdateQuestionAnswersCount(int qid, int value);
-        void UpdateQuestionViewsCount(int qid);
+        void UpdateQuestionViewsCount(int qid, int value);
         void DeleteQuestion(int qid);
         List<Question> GetQuestions();
         List<Question> GetQuestionByQuestionID(int qid);
     }
-    class QuestionsRepository:IQuestionsRepository
+    public class QuestionsRepository:IQuestionsRepository
     {
         StackOverflowDatabaseDBContext db;
 
@@ -65,12 +65,12 @@ namespace StackOverflowProject.Repositories
             }
         }
 
-        public void UpdateQuestionViewsCount(int qid)
+        public void UpdateQuestionViewsCount(int qid, int value)
         {
             Question qs = db.Questions.Where(temp => temp.QuestionID == qid).FirstOrDefault();
             if(qs!=null)
             {
-                qs.ViewsCount++;
+                qs.ViewsCount += value;
                 db.SaveChanges();
             }
         }

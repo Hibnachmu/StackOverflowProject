@@ -143,6 +143,14 @@
       <Project>{5ab78818-736d-4e7b-9b86-0612ded4a443}</Project>
       <Name>StackOverflowProject.DomainModels</Name>
     </ProjectReference>
+    <ProjectReference Include="..\StackOverflowProject.ServiceLayer\StackOverflowProject.ServiceLayer.csproj">
+      <Project>{25ccd0d0-1f8e-4871-acba-5f0ef6b4508d}</Project>
+      <Name>StackOverflowProject.ServiceLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StackOverflowProject.ViewModels\StackOverflowProject.ViewModels.csproj">
+      <Project>{5a2c0ffb-04a3-4873-8995-4262ece5240c}</Project>
+      <Name>StackOverflowProject.ViewModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

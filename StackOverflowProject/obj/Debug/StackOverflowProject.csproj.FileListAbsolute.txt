@@ -85,3 +85,17 @@ D:\Udemy\StackOverflowProject\StackOverflowProject\obj\Debug\StackOverflowProjec
 D:\Udemy\StackOverflowProject\StackOverflowProject\obj\Debug\StackOverflowProject.csproj.CopyComplete
 D:\Udemy\StackOverflowProject\StackOverflowProject\obj\Debug\StackOverflowProject.dll
 D:\Udemy\StackOverflowProject\StackOverflowProject\obj\Debug\StackOverflowProject.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.ServiceLayer.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.ViewModels.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.Repositories.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\AutoMapper.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.ValueTuple.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.ServiceLayer.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.ServiceLayer.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.ViewModels.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.ViewModels.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.Repositories.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.Repositories.dll.config
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\AutoMapper.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\AutoMapper.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.ValueTuple.xml
