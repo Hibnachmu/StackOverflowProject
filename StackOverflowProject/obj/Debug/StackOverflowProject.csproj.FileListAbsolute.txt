@@ -99,3 +99,8 @@ D:\Udemy\StackOverflowProject\StackOverflowProject\bin\StackOverflowProject.Repo
 D:\Udemy\StackOverflowProject\StackOverflowProject\bin\AutoMapper.pdb
 D:\Udemy\StackOverflowProject\StackOverflowProject\bin\AutoMapper.xml
 D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.ValueTuple.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Antlr3.Runtime.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.Web.Optimization.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\WebGrease.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Antlr3.Runtime.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.Web.Optimization.xml
