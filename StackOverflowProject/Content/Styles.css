@@ -1,0 +1,25 @@
+﻿.navbar
+{
+    background-color: #0596a8;
+}
+
+.navbar a:link, .navbar a:visited
+{
+    color:white !important;
+}
+
+.navbar a:hover
+{
+    color:#81f3f5 !important;
+    text-decoration: underline;
+}
+
+.dropdown-menu a:hover
+{
+    color:black !important;
+}
+
+.hidden
+{
+    display:none;
+}
