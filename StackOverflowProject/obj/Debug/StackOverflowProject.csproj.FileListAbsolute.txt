@@ -104,3 +104,12 @@ D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.Web.Optimization.d
 D:\Udemy\StackOverflowProject\StackOverflowProject\bin\WebGrease.dll
 D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Antlr3.Runtime.pdb
 D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.Web.Optimization.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Unity.Abstractions.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Unity.Container.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Unity.Mvc5.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Unity.WebApi.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.Threading.Tasks.Extensions.dll
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Unity.Abstractions.pdb
+D:\Udemy\StackOverflowProject\StackOverflowProject\bin\Unity.Container.pdb

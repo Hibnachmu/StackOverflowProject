@@ -14,6 +14,11 @@
     text-decoration: underline;
 }
 
+#active
+{
+    color:yellow !important;
+}
+
 .dropdown-menu a:hover
 {
     color:black !important;
@@ -22,4 +27,31 @@
 .hidden
 {
     display:none;
+}
+
+
+/* Style the input field inside the navbar */
+.topnav input[type=text] 
+{
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+/* Style the button inside the input container */
+.topnav .search-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #2a00ff;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.topnav .search-container button:hover 
+{
+    background: #ccc;
 }
