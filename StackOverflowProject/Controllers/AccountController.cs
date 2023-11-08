@@ -12,13 +12,34 @@ namespace StackOverflowProject.Controllers
     {
         IUSersService us;
 
-        public AccountController(UsersService us)
+        public AccountController(IUSersService us)
         {
             this.us = us;
         }
     
-        public ActionResult Index()
+        public ActionResult Register()
         {
+            return View();
+        }
+
+        [ValidateAntiForgeryToken]
+        [HttpPost]
+        public ActionResult Register(RegisterViewModel rvm)
+        {
+            if (ModelState.IsValid)
+            {
+                int uID = this.us.InsertUser(rvm);
+                Session["CurrentUserID"] = uID;
+                Session["CurrentUserName"] = rvm.UserName;
+                Session["CurrentUserEmail"] = rvm.Email;
+                Session["CurrentUserPassword"] = rvm.Password;
+                Session["CurrentUserIsAdmin"] = false;
+                return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                ModelState.AddModelError("x", "Invalid Data");
+            }
             return View();
         }
     }

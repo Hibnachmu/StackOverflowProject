@@ -13,7 +13,7 @@ namespace StackOverflowProject.Controllers
 
         IQuestionsService qs;
 
-        public HomeController(QuestionsService qs)
+        public HomeController(IQuestionsService qs)
         {
             this.qs = qs;
         }

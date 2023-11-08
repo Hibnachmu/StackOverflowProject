@@ -17,7 +17,8 @@
     <div class="container-fluid">
         <nav class="navbar navbar-expand-sm text-light navbar-light">
             <a class="navbar-brand" href="#">StackOverflow</a>
-            <button class="navbar-toggler" data-toggle="collapse" data-target="#collapsiblenavBar">
+
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#collapsibleNavBar">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -50,14 +51,24 @@
                     }
                     @if (Session["CurrentUserName"] != null)
                     {
-                        <li class="nav-item-dropdown">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/account/logout">Logout</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/account/editprofile">Edit Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/account/editpassword">Edit Password</a>
+                        </li>
+                        <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
                                 <img src="~/Images/pngkit_user-png_729913.png" width="20px" />
+                                @Session["CurrentUserName"]
                             </a>
                             <div class="dropdown-menu bg-info">
-                                <a class="dropdown-item" href="/accounts/logout">Logout</a>
-                                <a class="dropdown-item" href="/accounts/editprofile">Edit Profile</a>
-                                <a class="dropdown-item" href="/accounts/editpassword">Edit Password</a>
+                                <a class="dropdown-item" href="/account/logout">Logout</a>
+                                <a class="dropdown-item" href="/account/editprofile">Edit Profile</a>
+                                <a class="dropdown-item" href="/account/editpassword">Edit Password</a>
                             </div>
                         </li>
                     }
